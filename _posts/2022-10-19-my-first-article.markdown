@@ -4,7 +4,7 @@ title:  Roadmap on Blockchain as a Computer Engineer - Chapter 0
 author: Javier Porrón
 date:   2022-10-20 00
 image:  blockchain-02.jpeg
-tags:   Blockchain, Bitcoin, Roadmap, Computer Engineer
+tags:   Blockchain Bitcoin Roadmap Computer Engineer
 ---
 
 Hi! This is my first article in this blog. The idea of create this comes when I was trying to start to work as a Blockchain Engineer or in a similar position. With almost no experience and recently graduated  was imposible to me find a job in this position. So I decided to make this Blog: 
