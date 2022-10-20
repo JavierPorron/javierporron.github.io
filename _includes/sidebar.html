@@ -49,9 +49,15 @@
         <a href="{{ site.pinterest }}" class="social-profiles-link"><i class="ion ion-logo-pinterest"></i></a>
       </li>
       {% else %} {% endif %}
+
+      {% if site.linkedin %}
+      <li class="social-profiles-item">
+        <a href="{{ site.linkedin }}" class="social-profiles-link"><i class="ion ion-logo-linkedin"></i></a>
+      </li>
+      {% else %} {% endif %}
     </ul>
   </div>
-
+<!--
   <div class="widget widget-newsletter">
     <h3 class="widget-title">Newsletter</h3>
     <div class="newsletter-subtitle">Get Interesting News</div>
@@ -68,7 +74,7 @@
       </div>
     </form>
   </div>
-
+-->
   {% if site.instafeed == true %}
   <div class="widget widget-instagram">
     <h3 class="widget-title">Instagram</h3>
