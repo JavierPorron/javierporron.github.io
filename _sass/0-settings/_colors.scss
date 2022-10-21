@@ -1,14 +1,14 @@
 // Main Colors
-$primary-color: #81A1C1;
+$primary-color: #348ABF;
 $secondary-color: #B48EAD;
-$highlight: #EBCB8B;
+$highlight: #B3078D;
 $text: #D8DEE9;
 $gray-blue: #79819b;
 $white: #ECEFF4;
-$black: #3B4252;
+$black:#131540;
 $lighten-black: #4C566A;
-$blue-black: #242931;
-$blue-darken:#3B4252;
+$blue-black: #131540;
+$blue-darken:#202354;
 $green-darken: #2C3635;
 $danger: #BF616A;
 $success: #A3BE8C;
@@ -25,7 +25,7 @@ $heading-font-color: #2E3440;
 
 // Links
 $link-color: $primary-color;
-$link-color-hover: lighten($link-color, 15%);
+$link-color-hover: lighten($link-color, 10%);
 
 // Button
 $button-color: $white;
