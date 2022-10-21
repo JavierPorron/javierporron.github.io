@@ -3,7 +3,7 @@ layout: post
 title:  Roadmap on Blockchain as a Computer Engineer - Chapter 0
 author: Javier Porrón
 date:   2022-10-20 00
-image:  blockchain-02.jpeg
+image:  blockchain-02.png
 tags:   Blockchain Bitcoin Roadmap Computer Engineer
 ---
 
