@@ -16,4 +16,5 @@ Hi! This is my first article in this blog. The idea of create this comes when I 
 So! There is not going to be too much more on this 'Chapter 0'. Just enjoy it, i hope it helps you as well as me and every mistake that you would find or every recommendation about this, write me. It's going to  me a lot.
 
 Thanks for reading.
+
 <small> <a href="https://www.freepik.com/free-vector/cryptocurrency-mining-equipment-isometric-ethereum-digital-currency-extract_2909692.htm#&position=18&from_view=author#position=18">Image by fullvector</a> on Freepik </small>
