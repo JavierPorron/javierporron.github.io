@@ -40,10 +40,12 @@ This process creates the chain.
 **Blockchain technology is one of the most secure technologies in the world.** But to it incorporates some other mechanisms. 
 
 Imagine the following scenario:
-
+![](../img/Otros.png)
 In this scenario, we have 3 blocks that compose a chain. The hash of the previous block is stored in the next block.
 
 Now, imagine that one maliciuos attacker tries to modify the second block to his benefit. The hash of the second block would change and will not match with the hash stored in the next block, so the chain will breaks.
+
+![](../img/Otros2.png)
 
 This scenario, from part of the malicious attacker could be fixed recalculating all the following hashes of the blockchain, something relatively easy for today's computers. To avoid this, blockchain have **consensus mechanisms**, that makes harder to a malicious attacker recalculate all the following hashes on a blockchain. (We will talk deeply about this in the following posts)
 
