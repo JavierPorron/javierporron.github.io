@@ -4,7 +4,7 @@ title:  Roadmap on Blockchain as a Computer Engineer - Chapter 1
 author: Javier Porrón
 date:   2022-10-24 00
 image:  resiz.jpg
-tags:   Blockchain Bitcoin Roadmap Computer Engineer
+tags:   Blockchain Bitcoin Roadmap Computer Engineer Hash Consensus
 ---
 Here we go, in this 'Chapter 1' we are going to talk about some basic concepts about what is Blockchain and how it works in general concepts. 
 I think is not necessary to talk about what could be the benefecits of work as a Blockchain Engineer, Blockchain Developer... The most of you would arrived here because already know that, but, if you didn't I invite you just to take a look on the demand with the past of the years and the salaries. I think it would motivate you to continue with this course week a week.
