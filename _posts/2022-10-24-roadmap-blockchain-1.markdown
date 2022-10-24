@@ -35,7 +35,8 @@ A block, it's composed mainly of 3 things:
 
 This process creates the chain. 
 
-<br> </br>
+<br>
+
 **Blockchain technology is one of the most secure technologies in the world.** But to it incorporates some other mechanisms. 
 
 Imagine the following scenario:
