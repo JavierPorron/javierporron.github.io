@@ -70,7 +70,7 @@ My name is Javier Porrón and I'm a computer engineer. There's not too much info
 ### PROJECTS
 * **Demixing of Wasabi transactions by searching for cycles in the Bitcoin blockchain** / jun. 2022 - Present 
 
-Wasabi is a tool which allows you to preserve anonymity in Bitcoin transactions. A tool is developed to demix Wasabi transactions in an optimal way, through the search of cycles, parallelization and other techniques.
+Wasabi is a tool which allows you to preserve anonymity in Bitcoin transactions. The tool is developed to demix Wasabi transactions in an optimal way, through the search of cycles, parallelization and other techniques.
 
 &nbsp;
 * **Hybrid Auto-Scaling** / may. 2019 - jun. 2019 
@@ -93,7 +93,7 @@ Wasabi is a tool which allows you to preserve anonymity in Bitcoin transactions.
     * **SQL DB:** MySQL, Oracle, PostgreSQL
     * **ETL Solutions:** Pentaho Data Integration
     * **Neural Networks:** Recurrent, Convolutional
-    * **Machine Learning:** Supervides, unsupervised
+    * **Machine Learning:** Supervised, unsupervised
     * **Monitoring:** Nagios
     * **Virtualization Systems:** VMware ESXi
     * **IaC:** Terraform
